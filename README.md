@@ -1,4 +1,4 @@
-Cabot
+Cabot (Forked version)
 =====
 [![Build Status](https://travis-ci.org/arachnys/cabot.svg?branch=master)](https://travis-ci.org/arachnys/cabot) 
 [![PyPI version](https://badge.fury.io/py/cabot.svg)](https://badge.fury.io/py/cabot)
